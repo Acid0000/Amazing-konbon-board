@@ -33,7 +33,7 @@ This Kanban Board application provides a simple and intuitive interface for mana
 - Day.js
 
 ## Screenshots
-![Kanban Board Screenshot](screenshot.png)
+![Kanban Board Screenshot]([screenshot.png](https://github.com/Acid0000/Amazing-konbon-board/blob/main/assets/image.png?raw=true))
 
 ## License
 This project is licensed under the MIT License.
